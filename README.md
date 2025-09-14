@@ -2,9 +2,9 @@
 
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YakAliOen&show_icons=true&theme=tokyonight" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YakAliOen&show_icons=true&theme=tokyonight" height="180em"/>
   <img width="30" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakAliOen&layout=compact&langs_count=10&theme=tokyonight" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YakAliOen&layout=compact&langs_count=10&theme=tokyonight" height="180em"/>
 </div>
 <hr>
 
