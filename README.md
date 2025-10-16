@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on:
   - [Booklet](https://github.com/YakAliOen/Booklet)
   - [Extrinout](https://github.com/YakAliOen/Extrinout)
-  - [TEDxSISS](https://github.com/YakAliOen/TEDxSISS)
 
 <br>
 
