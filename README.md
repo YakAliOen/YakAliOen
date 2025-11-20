@@ -1,3 +1,5 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yakalioen&label=Profile%20views&color=0e75b6&style=flat" alt="stalkers" /></p>
+
 # YakAliOen's Profile 
 
 - 🔭 I’m currently working on:
