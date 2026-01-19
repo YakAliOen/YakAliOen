@@ -3,7 +3,7 @@
 # YakAliOen's Profile 
 
 - 🔭 I’m currently working on:
-  - [Booklet](https://github.com/AFSC54438/Booklet.git)
+  - [Scambridge](https://github.com/AFSC54438/Scambridge.git)
   - [Extrinout](https://github.com/YakAliOen/Extrinout)
 
 <br>
@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning:
   - Tkinter
   - Electron
+  - Android Studio
  
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakalioen&show_icons=true&theme=tokyonight)
