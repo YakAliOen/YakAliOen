@@ -2,15 +2,14 @@
 
 # YakAliOen's Profile 
 
-- 🔭 I’m currently working on:
-  - 
+- 🔭 I’m currently working ~~on~~ towards:
+  - GIAC Reverse Engineering Malware
 
 <br>
 
 - 🌱 I’m currently learning:
-  - Tkinter
-  - Electron
-  - Android Studio
+  - x86/x64 Assembly
+  - Win32 API & C/C++
  
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakalioen&show_icons=true&theme=tokyonight)
