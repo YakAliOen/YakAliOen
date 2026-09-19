@@ -3,8 +3,7 @@
 # YakAliOen's Profile 
 
 - 🔭 I’m currently working on:
-  - [Scambridge](https://github.com/AFSC54438/Scambridge.git)
-  - [Extrinout](https://github.com/YakAliOen/Extrinout)
+  - 
 
 <br>
 
